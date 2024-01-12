@@ -1,5 +1,4 @@
-# mango-ui
-Vue3-Community
+# Vue3-Community
 
 作者:冰点契约
 
